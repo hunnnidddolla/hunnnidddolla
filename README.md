@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="420681751f67207cc626320c8dd6deb1.jpg" width="100"/>
+  <img src="420681751f67207cc626320c8dd6deb1.jpg" width="200"/>
 </div>
 
 <!--
